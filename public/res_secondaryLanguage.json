@@ -1,0 +1,82 @@
+{
+  "basic_info": {
+    "description_header": "Hallo",
+    "description": "👋 Saya Ainun Septian, saya memiliki keterampilan dalam Pengembang front end dengan pengalaman langsung dan mendalam dalam kerangka kerja Javascript seperti ReactJS, NodeJS dan memahami konsep penting seperti Fecthing API, State Management, RestfulAPI, dll.",
+    "section_name": {
+      "about": "Tetang saya",
+      "projects": "Proyek",
+      "skills": "Keahlian",
+      "experience": "Pengalaman"
+    }
+  },
+  "projects": [
+    {
+      "title": "Sans Store web",
+      "startDate": "2019",
+      "description": "website toko pakaian sederhana yang saya buat setelah berhasil menyelesaikan materi HTML, CSS dan Javascript dasar.",
+      "images": [
+        "/images/portfolio/store/store1.jpg",
+        "/images/portfolio/store/store2.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "name": "HTML",
+          "class": "devicon-html5-plain"
+        },
+        {
+          "name": "CSS",
+          "class": "devicon-css3-plain"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain"
+        }
+      ]
+    },
+    {
+      "title": "Staycation web",
+      "startDate": "2020",
+      "description": "website yang menawarkan kemudahan dalam melakukan pemesanan hotel, tempat liburan atau wisata dan tiket perjalanan",
+      "images": [
+        "images/portfolio/staycation/staycation1.jpg",
+        "images/portfolio/staycation/staycation2.jgp"
+      ],
+      "url": "https://staycation09.herokuapp.com/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        }
+      ]
+    },
+    {
+      "title": "Burger Menu Web",
+      "startDate": "2021",
+      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+      "images": [
+        "images/portfolio/adventure/p1.jpg",
+        "images/portfolio/adventure/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Progate",
+      "title": "Mentor Front-End Developer",
+      "years": "10.2020 - present",
+      "mainTech": ["Html&Css, Javascript & React"],
+      "technologies": [
+        "Mentoring kepada peserta yang terdaftar",
+        " di platform pembelajaran Progate"
+      ]
+    }
+  ]
+}

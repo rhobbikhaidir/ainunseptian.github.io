@@ -1,0 +1,43 @@
+{
+  "basic_info": {
+    "name": "Ainun Septian",
+    "titles": ["Front-end Developer", "React Developer"],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/AinunSeptian",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "instagram",
+        "url": "ainunseptian79@hmail.com",
+        "class": "far fa-envelope"
+      }
+    ],
+    "image": "myProfile.jpg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "HTML",
+        "class": "devicon-html5-plain",
+        "level": "95"
+      },
+      {
+        "name": "CSS",
+        "class": "devicon-css3-plain",
+        "level": "95"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "70"
+      },
+      {
+        "name": "React",
+        "class": "devicon-react-original",
+        "level": "95"
+      }
+    ]
+  }
+}
