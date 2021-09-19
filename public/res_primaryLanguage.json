@@ -15,8 +15,8 @@
       "startDate": "2019",
       "description": "a simple clothing store website that I created after successfully completing basic HTML, CSS and Javascript basic.",
       "images": [
-        "./images/portfolio/store/store1.jpg",
-        "./images/portfolio/store/store2.jpg"
+        "/images/portfolio/store/store1.jpg",
+        "/images/portfolio/store/store2.jpg"
       ],
       "url": "",
       "technologies": [
@@ -39,8 +39,8 @@
       "startDate": "2020",
       "description": "a website that offers convenience in booking hotels, vacation or tourist spots and travel tickets",
       "images": [
-        "./images/portfolio/staycation/staycation1.jpg",
-        "./images/portfolio/staycation/staycation2.jpg"
+        "/images/portfolio/staycation/staycation1.jpg",
+        "/images/portfolio/staycation/staycation2.jpg"
       ],
       "url": "https://staycation09.herokuapp.com/",
       "technologies": [
@@ -55,8 +55,8 @@
       "startDate": "2021",
       "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
       "images": [
-        "./images/portfolio/adventure/p1.jpg",
-        "./images/portfolio/adventure/p2.jpg"
+        "/images/portfolio/adventure/p1.jpg",
+        "/images/portfolio/adventure/p2.jpg"
       ],
       "url": "https://github.com",
       "technologies": [
